@@ -21,7 +21,7 @@
 	--azurite-home-icon: url('https://cdn.discordapp.com/attachments/796065674073997332/1127654470852038747/image-tqy5QiEyE-transformed1.png');
 	--watermark-filter-invert: 0%;
 	--watermark-filter-sepia: 50%;
-	--watermark-filter-saturate: 60000%;
+	--watermark-filter-saturate: 100000%;
 	--watermark-filter-hue-rotate: 100deg;
 	--watermark-filter-brightness: 100%;
 	--watermark-filter-contrast: 70%;
